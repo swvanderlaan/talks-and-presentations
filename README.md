@@ -1,4 +1,4 @@
-Talks adn Presentations
+Talks and Presentations
 ============
 
 This project contains material from talks and presentations I give.
